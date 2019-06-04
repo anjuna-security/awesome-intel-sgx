@@ -27,4 +27,5 @@ Intel® Software Guard Extensions (SGX) is Intel's take on enabling creating sec
 ## Tutorials
 * [Intel® SGX Explained](https://eprint.iacr.org/2016/086.pdf)
 
-## Related Security Research
+## Related Research
+* [CoSMIX: A Compiler-based System for Secure Memory Instrumentation and Execution in Enclaves](https://www.usenix.org/conference/atc19/presentation/orenbach)
